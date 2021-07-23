@@ -9,3 +9,7 @@ class Student(models.Model):
     lab=models.CharField(max_length=9)
     nationality=models.CharField(max_length=13)
     identification=models.CharField(max_length=20)
+    
+
+    
+    
